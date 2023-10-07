@@ -10,7 +10,7 @@ Nadszedł czas, aby stworzyć podstawowy układ strony. Poniżej przedstawiam je
 
 &nbsp;
 
-* **zielone krawędzie** to kontenery, które wypełniają całą szerokość okna przeglądarki (mają 100% szerokości),
+* **zielone krawędzie** to kontenery, które wypełniają całą szerokość ../../../../../../../../var/folders/j6/43rzc8fd4_bg7jwt9b8ljh7w0000gp/T/com.apple.useractivityd/shared-pasteboard/items/089E0BC5-21C3-48E6-BDFF-ABFF19AAE7B7/bfa67b3054ab9c93f69616889ea557fce9ec60fa.rtfdokna przeglądarki (mają 100% szerokości),
 * **niebieskie krawędzie** to maksymalna szerokość zawartości naszej strony. Przyjmijmy, że wynosi 1000px,
 * **pomarańczowe prostokąty** to dowolna zawartość sekcji.
 
